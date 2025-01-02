@@ -1,0 +1,5 @@
+python-gitlab
+python-dotenv
+google-generativeai
+openai
+pyyaml
